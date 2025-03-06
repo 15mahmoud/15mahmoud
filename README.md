@@ -35,12 +35,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=15mahmoud&show_icons=true&theme=radical)
 
-## Latest Blog Posts
-
-- [Getting Started with Java Spring](https://example.com/blog/getting-started-with-java-spring)
-- [Mastering Data Structures in JavaScript](https://example.com/blog/mastering-data-structures-in-javascript)
-- [Best Practices for Object-Oriented Programming](https://example.com/blog/best-practices-for-oop)
-
-*Note: Replace placeholder links with actual URLs to your blog posts or articles.*
-
-By integrating these elements, your GitHub profile will effectively showcase your skills, projects, and interests, providing visitors with a comprehensive understanding of your work.
