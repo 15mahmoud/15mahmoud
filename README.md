@@ -10,10 +10,12 @@
 
 ## Skills and Technologies
 
-- **Programming Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Java](https://img.shields.io/badge/-Java-red)
-- **Frameworks and Libraries:** ![React](https://img.shields.io/badge/-React-blue) ![Spring](https://img.shields.io/badge/-Spring-green)
+- **Programming Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Java](https://img.shields.io/badge/-Java-red) ![C++](https://img.shields.io/badge/-C++-blue) ![C#](https://img.shields.io/badge/-C%23-purple)
+- **Frameworks and Libraries:** ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey) ![React](https://img.shields.io/badge/-React-blue) ![Spring](https://img.shields.io/badge/-Spring-green) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+- **Web Technologies:** ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
 - **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 - **Tools and Platforms:** ![Git](https://img.shields.io/badge/-Git-orange) ![Docker](https://img.shields.io/badge/-Docker-blue)
+
 
 ## Featured Projects
 
